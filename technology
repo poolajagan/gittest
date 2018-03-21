@@ -5,3 +5,6 @@ php
 java
 elb
 auto scaling
+ec2
+s3
+ebs
